@@ -14,10 +14,11 @@ Then `bundle install`.
 
 ## Basic Usage
 
-    use OmniAuth::Builder do
-    provider :dailymotion, ENV['DAILYMOTION_CLIENT_ID'],
-ENV['DAILYMOTION_SECRET']
-    end
+```ruby
+use OmniAuth::Builder do
+  provider :dailymotion, ENV['DAILYMOTION_CLIENT_ID'], ENV['DAILYMOTION_SECRET']
+end
+```
 
 ## Supported Flows
 
