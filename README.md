@@ -1,6 +1,10 @@
-# OmniAuth Dailymotion
+# OmniAuth Dailymotion [![Build Status](https://secure.travis-ci.org/slainer68/omniauth-dailymotion.png?branch=master)][travis] [![Dependency Status](https://gemnasium.com/slainer68/omniauth-dailymotion.png?travis)][gemnasium]
+[travis]: http://travis-ci.org/slainer68/omniauth-dailymotion
+[gemnasium]: https://gemnasium.com/slainer68/omniauth-dailymotion
 
 This gem contains the Dailymotion strategy for OmniAuth 1.0.
+
+Note : this gem is unofficial and is not endorsed in any way by Dailymotion.
 
 ## Installing
 
@@ -22,7 +26,7 @@ end
 
 ## Supported Flows
 
-Supports the Server-side Flow as described in the the [Dailymotion Data API 
+Supports the Server-side Flow as described in the the [Dailymotion Data API
 docs](http://www.dailymotion.com/doc/api/authentication.html).
 
 ## License
