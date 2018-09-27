@@ -26,7 +26,7 @@ end
 
 ## Supported Flows
 
-Supports the Server-side Flow as described in the the [Dailymotion Data API
+Supports the Server-side Flow as described in the [Dailymotion Data API
 docs](http://www.dailymotion.com/doc/api/authentication.html).
 
 ## License
